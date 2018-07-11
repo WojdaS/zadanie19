@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F5F5DD;
+}
+
+
+.squares {
+    width: 100%;
+    margin-top: 50px;
+}
+
+#opacity1 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+#opacity2 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    opacity: 0.75;
+}
+
+#opacity3 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    opacity: 0.5
+}
+
+#opacity4 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    opacity: 0.25
+}
